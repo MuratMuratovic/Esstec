@@ -1,0 +1,26 @@
+Simulated device (C, Node.js, .NET, Java, Python, Android, iOS):
+https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-dotnet
+
+Stream Analytics (with Raspberry Pi Azure IoT Online Simulator):
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-quick-create-portal
+
+BowerBi with Stream Analytics.
+https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-power-bi-dashboard 
+
+Create Web App (Node.js):
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps
+
+
+Send Message to device (dodati u Node.js):
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-c2d
+
+
+Control Device(Direct method call - Druga opcija):
+https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-control-device-node
+
+Azure services:
+https://azure.microsoft.com/en-us/services/
+
+Azure machine learning studio:
+https://docs.microsoft.com/en-us/azure/machine-learning/studio/
+
